@@ -1,0 +1,10 @@
+# Build outputs
+.build/
+dist/
+*.iconset/
+
+# macOS
+.DS_Store
+
+# Local agent notes
+.zcode/
